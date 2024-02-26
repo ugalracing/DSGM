@@ -5,16 +5,21 @@ Data Science for Global Manager
 # Introduction
 # Theodore Gilbert Kurniawan
 # Education
-- International Business Management Bachelor's Degree in BINUS Business School
+BINUS Business School
+- International Business Management Bachelor's Degree 
+- Graduate December 2022
+- GPA 3.46 out of 4.00
 # Licences & Certificate
 - IELTS
 - Export Staff
 - Micro Credential Program of Digital Marketing 
--Micro Credential Program of Project Management 
+- Micro Credential Program of Project Management 
 # Internship
-- Voksel Electric Tbk as Sales Export
+Voksel Electric Tbk
+- Sales Export
 # Experience
-- Warton as Supervisor
+Warton
+- Supervisor
 
 
 This course introduces the _programming language_ concept and includes hands-on __Python__ practice. However, the concept is not limited to Python. Therefore, students can learn other programming languages quickly once they complete this course. The course starts with an introduction to the programming environment. Then, we cover variables, data types, and conditional statements as core elements. In addition, advanced concepts like object-oriented programming and classes, as well as debugging will be covered.
