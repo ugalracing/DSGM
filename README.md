@@ -1,8 +1,6 @@
-# DSGM 2024
-
-Data Science for Global Manager
 
 # Introduction
+
 # Theodore Gilbert Kurniawan
 # Education
 BINUS Business School
